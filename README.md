@@ -8,7 +8,7 @@ Sou estudante de Sistemas de informação na UniRedentor. Atualmente curso o 6º
 ![Tissi GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que Utilizo
-<div align: center style="display: inline-block; ">
+<div align: center  >
     <br/>
      <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
     <img  alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
