@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, eu sou o Leonardo Tissi 🤙 
 
-<!--
-**DevLeonardoTissi/DevLeonardoTissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleonardotissi/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Tissi GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=dracula)
+
+## Tecnologias que Utilizo
+<div style="display: inline-block; "><br>
+    <img  alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+
+    <img  alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+ 
+
+
+
+</div>
