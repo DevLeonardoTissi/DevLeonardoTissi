@@ -1,4 +1,4 @@
-### Olá! eu sou o Leonardo Tissi 🤙 
+# Olá! eu sou o Leonardo Tissi 🤙 
 
 <br/>
 
@@ -28,11 +28,14 @@ Sou estudante de Sistemas de informação na UniRedentor. Atualmente curso o 6º
 ## Meus contatos:
 
 <div style="display: inline-block; ">
+    <a href="mailto:leonardo.tissi.si@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
     <a href="https://www.linkedin.com/in/devleonardotissi">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devleonardotissi"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
      <a href="https://www.linkedin.com/in/devleonardotissi">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https:// https://wa.me/5532998002817"/>
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
 </div>
 
