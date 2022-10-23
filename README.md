@@ -27,7 +27,7 @@ Sou estudante de Sistemas de informação na UniRedentor. Atualmente curso o 6º
 
 ## Meus contatos:
 
-<div style="display: inline-block; ">
+<div  style="display: inline-block; align-self: center; ">
     <a href="mailto:leonardo.tissi.si@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
