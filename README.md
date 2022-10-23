@@ -1,5 +1,8 @@
 # Olá! eu sou o Leonardo Tissi 🤙 
 
+## Sobre mim
+Sou estudante de Sistemas de informação na UniRedentor. Atualmente curso o 6º período e estou focado no desenvolvimento mobile, onde estou realizando uma formação pela Alura e aprendi alguns conceitos, como persistencia de dados, vários tipos de navegação entre telas, operações assincronas com o lifecycle, e etc. Durante a graduação tive contato com algumas linguagens e tecnologias, entre elas JavaScript, PHP, Python, MySQL, Java, Kotlin, HTML, CSS, Bootstrap e Git. Ainda não possuo experiência profissional, mas estou totalmente disposto e motivado para uma oportunidade de ingressar na área.
+
 <br/>
 
 ![Tissi GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=tokyonight)
@@ -21,8 +24,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeonardoTissi&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/DevLeonardoTissi/github-readme-stats)
 
-## Sobre mim
-Sou estudante de Sistemas de informação na UniRedentor. Atualmente curso o 6º período e estou focado no desenvolvimento mobile, onde estou realizando uma formação pela Alura e aprendi alguns conceitos, como persistencia de dados, vários tipos de navegação entre telas, operações assincronas com o lifecycle, e etc. Durante a graduação tive contato com algumas linguagens e tecnologias, entre elas JavaScript, PHP, Python, MySQL, Java, Kotlin, HTML, CSS, Bootstrap e Git. Ainda não possuo experiência profissional, mas estou totalmente disposto e motivado para uma oportunidade de ingressar na área.
 
 ## Meus contatos:
 
