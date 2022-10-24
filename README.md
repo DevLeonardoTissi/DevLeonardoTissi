@@ -9,7 +9,8 @@ Sou estudante de Sistemas de informação na UniRedentor. Atualmente curso o 6º
 
 <br/>
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=tokionight)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=tokyonight)
+
 
 ## Tecnologias que Utilizo
 <div align="center" style="display: inline-block; ">
@@ -27,6 +28,7 @@ Sou estudante de Sistemas de informação na UniRedentor. Atualmente curso o 6º
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeonardoTissi&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/DevLeonardoTissi/github-readme-stats)
+
 
 
 ## Meus contatos:
