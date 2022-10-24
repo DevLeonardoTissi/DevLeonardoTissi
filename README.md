@@ -27,7 +27,7 @@ Sou estudante de Sistemas de informação na UniRedentor. Atualmente curso o 6º
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeonardoTissi&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/DevLeonardoTissi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeonardoTissi&langs_count=8&layout=compact&theme=cobalt)](https://github.com/DevLeonardoTissi/github-readme-stats)
 
 
 
