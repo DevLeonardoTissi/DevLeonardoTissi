@@ -9,7 +9,7 @@ Sou estudante de Sistemas de informação na UniRedentor. Atualmente curso o 6º
 
 <br/>
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=merko)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=gruvbox)
 
 
 ## Tecnologias que Utilizo
