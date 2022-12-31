@@ -7,12 +7,17 @@
 <br/>
 
 
-<div align="center" style="display: flex; width: 100% ;" >
+<div align="center" style="display: flex; width: 100% ; align-content: center;" >
+
+<div align="center" style="width: 50%;">
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeonardoTissi&langs_count=8&layout=compact&theme=cobalt)](https://github.com/DevLeonardoTissi/github-readme-stats)
+</div>
+<div align="center" style="width: 50%;">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeonardoTissi&langs_count=8&layout=compact&theme=cobalt)](https://github.com/DevLeonardoTissi/github-readme-stats)
+</div>
 </div>
 
 ## Tecnologias que Utilizo
