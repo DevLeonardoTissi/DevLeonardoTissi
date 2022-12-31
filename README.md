@@ -7,7 +7,7 @@
 <br/>
 
 
-<div align="center" style="width: 100%" >
+<div align="center" style="width: 100; align-self: center; display: flex;" >
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=cobalt)
 
