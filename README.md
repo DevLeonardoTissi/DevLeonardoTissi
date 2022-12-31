@@ -29,6 +29,11 @@
     <img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </div>
 
+
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevLeonardoTissi&bg_color=1b1b27&color=879cdd&line=879cdd&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
 ## Meus contatos:
@@ -44,9 +49,4 @@
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
 </div>
-
-<br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevLeonardoTissi&bg_color=001d38&color=ffffff&line=4c659e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=879cdd&height=120&section=footer"/>
