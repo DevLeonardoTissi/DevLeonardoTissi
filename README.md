@@ -12,7 +12,7 @@
 <br>
 <br>
 
-<div align="center"  style="display: inline-block; align-self: center; ">
+<div align="center"  style="display: flex; align-self: center; ">
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=cobalt)
 
