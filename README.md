@@ -14,7 +14,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeonardoTissi&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/DevLeonardoTissi/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevLeonardoTissi&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
+
+<br>
 
 ## Tecnologias que Utilizo
 <div align="center" style="display: inline-block;  ">
@@ -28,12 +31,11 @@
     <img  alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     </div>
-
-
-
+    
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevLeonardoTissi&bg_color=1b1b27&color=879cdd&line=879cdd&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevLeonardoTissi&bg_color=1b1b27&color=71a1e9&line=71a1e9&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br/>
 
 ## Meus contatos:
@@ -49,4 +51,5 @@
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
 </div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=879cdd&height=120&section=footer"/>
