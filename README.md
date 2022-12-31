@@ -4,10 +4,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Leonardo+Tissi;I'm+a+Brazilian+student+of+information+Systems;I'm+in+the+7th+period+of+graduation;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<br/>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<div align="center" style="width: 100; align-self: center; display: flex;" >
+<div align="center"  style="display: inline-block; align-self: center; ">
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=cobalt)
 
