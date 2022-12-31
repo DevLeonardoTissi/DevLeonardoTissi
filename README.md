@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71a1df&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=71a1df&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Leonardo+Tissi;I'm+a+Brazilian+student+of+information+Systems;I'm+in+the+7th+period+of+graduation;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=71a1df&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leonardo+Tissi;I'm+a+Brazilian+student+of+information+Systems;I'm+in+the+7th+period+of+graduation;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -10,9 +10,7 @@
 <div align="center" style="display: flex; justify-content: center;">
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeonardoTissi&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/DevLeonardoTissi/github-readme-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=DevLeonardoTissi&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
