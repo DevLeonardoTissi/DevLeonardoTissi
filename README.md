@@ -6,18 +6,14 @@
 
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<div align="center"  style="display: flex; align-self: center; ">
+<div align="center" style="display: flex; justify-content: center;">
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeonardoTissi&langs_count=8&layout=compact&theme=cobalt)](https://github.com/DevLeonardoTissi/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevLeonardoTissi&theme=cobalt)](https://git.io/streak-stats)
 </div>
 
 ## Tecnologias que Utilizo
