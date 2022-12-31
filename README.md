@@ -9,7 +9,9 @@
 
 <div align="center" style="display: flex; justify-content: center;">
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeonardoTissi&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/DevLeonardoTissi/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=DevLeonardoTissi&theme=tokyonight)](https://git.io/streak-stats)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeonardoTissi&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/DevLeonardoTissi/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevLeonardoTissi&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
