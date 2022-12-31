@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=879cdd&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Leonardo+Tissi;I'm+a+Brazilian+student+of+information+Systems;I'm+in+the+7th+period+of+graduation;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=879cdd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Leonardo+Tissi;I'm+a+Brazilian+student+of+information+Systems;I'm+in+the+7th+period+of+graduation;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -9,11 +9,11 @@
 
 <div align="center" style="display: flex; justify-content: center;">
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=cobalt)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeonardoTissi&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeonardoTissi&langs_count=8&layout=compact&theme=cobalt)](https://github.com/DevLeonardoTissi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeonardoTissi&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/DevLeonardoTissi/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevLeonardoTissi&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DevLeonardoTissi&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
 ## Tecnologias que Utilizo
@@ -31,10 +31,6 @@
 
 <br/>
 
-
-
-
-
 ## Meus contatos:
 
 <div align="center"  style="display: inline-block; align-self: center; ">
@@ -51,8 +47,6 @@
 
 <br>
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevLeonardoTissi&bg_color=001d38&color=ffffff&line=4c659e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=879cdd&height=120&section=footer"/>
