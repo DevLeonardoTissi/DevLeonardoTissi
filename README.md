@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=71a1df&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=71a1df&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leonardo+Tissi;I'm+a+Brazilian+student+of+information+Systems;I'm+in+the+7th+period+of+graduation;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=71a1df&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Leonardo+Tissi;I'm+a+Junior+Software+Developer;Graduated+in+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-
+Graduated in Information Systems.
 <br>
 
 <div align="center" style="display: flex; justify-content: center;">
